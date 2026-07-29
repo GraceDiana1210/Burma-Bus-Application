@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542519430417",
+    "project_id": "burmabus-b9685",
+    "storage_bucket": "burmabus-b9685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542519430417:android:231478dcd3bc84179350b0",
+        "android_client_info": {
+          "package_name": "com.example.final_burma_bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyPJk-49pnjGKotZ-OrQ9p701gEMJFqII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

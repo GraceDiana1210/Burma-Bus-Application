@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Real NFC</string>
+    <string name="real_nfc">Real NFC</string>  <!-- This is the missing string -->
+</resources>
